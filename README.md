@@ -150,6 +150,11 @@ You will need to submit this link as a part of the assignment evaluation.
 
 Hint: Refer to Lab: Working with files in Jupyter Notebooks to download the notebook from SN Labs.
 
+Result:
+
+![Screenshot_1](https://github.com/DanilkaCrazy/IBM-DataScienceEcosystem/assets/95550202/928b4166-03a1-476d-95f8-5a04fcc08753)
+
+
 ## Exercise 13 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png(Images can be saved with either the .jpg or .png extension.)
 
 Refer to Hands-on Lab: Getting Started with GitHub to upload the downloaded notebook to GitHub.
